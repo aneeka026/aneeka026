@@ -1,6 +1,6 @@
 ## ANEEKA
 
-💻 **Frontend Developer** 
+💻 **Frontend Developer** <br/>
 Turning designs into smooth, responsive experiences  
 ---
 
