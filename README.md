@@ -1,4 +1,4 @@
-## Hi, I'm Aneeka 👋
+## ANEEKA
 
 💻 **Frontend Developer Intern** | Passionate about building clean, responsive, and user-friendly web applications.  
 
