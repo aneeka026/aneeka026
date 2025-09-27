@@ -32,6 +32,23 @@ Personal portfolio showcasing skills, projects, and resume.
 [🔗 Live Demo](https://anee-portfolio.netlify.app/) | [📂 Repo](https://github.com/aneeka026/My-Portfolio)  
 
 ---
+## 🛠️ My Tech Arsenal
+The core technologies I leverage to bring my projects to life.
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=arduino,py,cpp,java,js,ts,r" />
+  <br>
+  <!-- Frameworks & Tools -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,redux,bootstrap,tailwind,flask" />
+  <br>
+  <!-- Databases & Cloud -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,aws,heroku,docker" />
+  <br>
+  <!-- Others -->
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,npm" />
+</p>
+---
 
 ### 📊 GitHub Stats
 
