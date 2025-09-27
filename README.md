@@ -4,7 +4,7 @@ Turning designs into smooth, responsive, and user-friendly experiences.
 
 ---
 
-###  Tech Stack
+### 🎯 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,23 +17,7 @@ Turning designs into smooth, responsive, and user-friendly experiences.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
----
-
-### 🎯 My Skill Pillars
-
- Frontend Development
-**Objective:** Build interactive, responsive, and accessible web interfaces  
-**Core Tech:** HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap
-
-  UI/UX Design
-**Objective:** Create visually appealing and user-centric designs  
-**Core Tools:** Figma, Canva, Responsive Design Principles  
-
-  Deployment & Version Control
-**Objective:** Deliver projects that are live, maintainable, and collaborative  
-**Core Tools:** Git/GitHub, Netlify
-
----
+--- 
 
 ## 📌 Featured Projects
 
