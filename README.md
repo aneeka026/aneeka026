@@ -18,8 +18,6 @@ Personal portfolio showcasing skills, projects, and resume.
 
 ---
 ### 🎯 Tech Stack
-The core technologies I leverage to bring my projects to life.
-
 
 <p align="center">
   <!-- Core Web -->
