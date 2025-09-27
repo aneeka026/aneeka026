@@ -37,16 +37,6 @@ Personal portfolio showcasing skills, projects, and resume.
 
 ---
 
-## 📊 My GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ItsAsh95&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsAsh95&theme=radical" alt="GitHub streak" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aneeka-a74166204/)  
