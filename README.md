@@ -31,4 +31,4 @@ Turning designs into smooth, responsive, and user-friendly experiences.
 
 ---
 
-*“Code is not just what you write, it's what you create for others to experience.”*
+*Code is not just what you write, it's what you create for others to experience*
