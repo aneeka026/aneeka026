@@ -1,4 +1,4 @@
-# Hi, I’m Aneeka  
+## Hi, I’m Aneeka  
 💻 **Frontend Developer | UI/UX Enthusiast | React & Web Design Practitioner**  
 Turning designs into smooth, responsive, and user-friendly experiences.
 
@@ -19,7 +19,7 @@ Turning designs into smooth, responsive, and user-friendly experiences.
 
 ---
 
-## 🎯 My Skill Pillars
+### 🎯 My Skill Pillars
 
 ### 💻 Frontend Development
 **Objective:** Build interactive, responsive, and accessible web interfaces  
