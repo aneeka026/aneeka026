@@ -1,7 +1,7 @@
 ## ANEEKA
 
 💻 **Frontend Developer** <br/>
-Turning designs into smooth, responsive experiences  
+<p>Turning designs into smooth, responsive experiences  </p>
 ---
 
 ## 🛠️ Tech Stack
