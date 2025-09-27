@@ -17,6 +17,7 @@ Personal portfolio showcasing skills, projects, and resume.
 [🔗 Live Demo](https://anee-portfolio.netlify.app/) | [📂 Repo](https://github.com/aneeka026/My-Portfolio)  
 
 ---
+
 ### 🎯 Tech Stack
 
 <p align="center">
@@ -26,6 +27,7 @@ Personal portfolio showcasing skills, projects, and resume.
   <!-- Tools & Hosting -->
   <img src="https://skillicons.dev/icons?i=git,github,netlify" />
 </p>
+
 ---
 
 ### 📊 GitHub Stats
