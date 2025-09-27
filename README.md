@@ -24,14 +24,15 @@
 
 ## 📌 Featured Projects
 
-### 🔹 [Portfolio Website](https://anee-portfolio.netlify.app/)  
-Personal portfolio showcasing my work, skills, and resume.  
-*Tech:* React, CSS Modules  
+### 🔹 [CryptoTracker Web App](https://cryptopricetracks.netlify.app/)  
+A web app that tracks real-time cryptocurrency prices and displays market data.  
+*Tech:* React.js, CSS3, API Integration  
+[🔗 Live Demo](https://cryptopricetracks.netlify.app/) | [📂 Repo](#)  
 
-### 🔹 Project 2 (example)  
-Description of project — what it does, why it’s useful.  
-*Tech:* React, Tailwind, API integration  
-[🔗 Live Demo](#) | [📂 Repo](#)  
+### 🔹 [Portfolio Website](https://anee-portfolio.netlify.app/)  
+Personal portfolio showcasing my skills, projects, and resume.  
+*Tech:* React.js, CSS Modules, Responsive Design  
+[🔗 Live Demo](https://anee-portfolio.netlify.app/) | [📂 Repo](#)  
 
 ### 🔹 Project 3 (example)  
 Description of project.  
