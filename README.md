@@ -1,6 +1,6 @@
 ## ANEEKA
 
-💻 **Frontend Developer Intern** | Passionate about building clean, responsive, and user-friendly web applications.  
+💻 **Frontend Developer Intern** | Turning designs into smooth, responsive experiences
 
 🌱 Currently learning **React, modern UI/UX practices, and web performance optimization.**  
 🚀 Looking forward to contributing to real-world projects and open-source communities.  
