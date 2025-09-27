@@ -4,21 +4,6 @@ Turning designs into smooth, responsive, and user-friendly experiences.
 
 ---
 
-### 🎯 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-FF69B4?style=for-the-badge&logo=figma&logoColor=white)
-![Responsive](https://img.shields.io/badge/Responsive%20Design-00C7B7?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
---- 
-
 ### 📌 Featured Projects
 
   [CryptoTracker Web App](https://cryptopricetracks.netlify.app/)  
@@ -32,22 +17,21 @@ Personal portfolio showcasing skills, projects, and resume.
 [🔗 Live Demo](https://anee-portfolio.netlify.app/) | [📂 Repo](https://github.com/aneeka026/My-Portfolio)  
 
 ---
-## 🛠️ My Tech Arsenal
+### 🎯 Tech Stack
 The core technologies I leverage to bring my projects to life.
 
+
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=arduino,py,cpp,java,js,ts,r" />
+  <!-- Core Web -->
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
   <br>
-  <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,redux,bootstrap,tailwind,flask" />
-  <br>
-  <!-- Databases & Cloud -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,aws,heroku,docker" />
-  <br>
-  <!-- Others -->
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode,npm" />
+  <!-- Tools & Hosting -->
+  <img src="https://skillicons.dev/icons?i=git,github,netlify" />
 </p>
+
+ Other Skills
+- UI/UX Design  
+- Responsive Web Design
 ---
 
 ### 📊 GitHub Stats
