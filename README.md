@@ -18,6 +18,24 @@
 
 ---
 
+## 🎯 My Skill Pillars
+
+### 💻 Frontend Development
+**Objective:** Build interactive, responsive, and accessible web interfaces  
+**Core Tech:** HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap, Tailwind  
+
+### 🎨 UI/UX Design
+**Objective:** Create visually appealing and user-centric designs  
+**Core Tools:** Figma, Adobe XD, Responsive Design Principles  
+
+### 🌐 Deployment & Version Control
+**Objective:** Deliver projects that are live, maintainable, and collaborative  
+**Core Tools:** Git/GitHub, Netlify, Vercel  
+---
+## 🛠️ Tech Stack
+HTML5 | CSS3 | JavaScript | React.js | Bootstrap | Tailwind | UI/UX Design | Git/GitHub | Netlify  
+
+---
 ## 📌 Featured Projects
 
 ### 🔹 [CryptoTracker Web App](https://cryptopricetracks.netlify.app/)  
@@ -49,4 +67,4 @@ Personal portfolio showcasing my skills, projects, and resume.
 
 ---
 
-⭐️ *“Code, Learn, Build, Repeat.”*  
+*“Code is not just what you write, it's what you create for others to experience.”*
