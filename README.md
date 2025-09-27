@@ -39,7 +39,7 @@ Description of project.
 
 ## 📊 GitHub Stats
 
-![Aneeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=aneeka&show_icons=true&theme=tokyonight)  
+![Aneeka's GitHub stats](https://www.linkedin.com/in/aneeka-a74166204/) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeka&layout=compact&theme=tokyonight)
 
 ---
