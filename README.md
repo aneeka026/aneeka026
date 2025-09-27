@@ -21,15 +21,15 @@ Turning designs into smooth, responsive, and user-friendly experiences.
 
 ### 🎯 My Skill Pillars
 
-### 💻 Frontend Development
+ Frontend Development
 **Objective:** Build interactive, responsive, and accessible web interfaces  
 **Core Tech:** HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap
 
-### 🎨 UI/UX Design
+  UI/UX Design
 **Objective:** Create visually appealing and user-centric designs  
 **Core Tools:** Figma, Canva, Responsive Design Principles  
 
-### 🌐 Deployment & Version Control
+  Deployment & Version Control
 **Objective:** Deliver projects that are live, maintainable, and collaborative  
 **Core Tools:** Git/GitHub, Netlify
 
@@ -37,12 +37,12 @@ Turning designs into smooth, responsive, and user-friendly experiences.
 
 ## 📌 Featured Projects
 
-### 🔹 [CryptoTracker Web App](https://cryptopricetracks.netlify.app/)  
+###  [CryptoTracker Web App](https://cryptopricetracks.netlify.app/)  
 Real-time cryptocurrency tracker with interactive charts and market data.  
 *Tech:* React.js, CSS3, API Integration  
 [🔗 Live Demo](https://cryptopricetracks.netlify.app/) | [📂 Repo](https://github.com/aneeka026/CryptoTracker-Project)  
 
-### 🔹 [Portfolio Website](https://anee-portfolio.netlify.app/)  
+###  [Portfolio Website](https://anee-portfolio.netlify.app/)  
 Personal portfolio showcasing skills, projects, and resume.  
 *Tech:* React.js, CSS Modules, Responsive Design  
 [🔗 Live Demo](https://anee-portfolio.netlify.app/) | [📂 Repo](https://github.com/aneeka026/My-Portfolio)  
