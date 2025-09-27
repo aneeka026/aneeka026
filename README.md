@@ -1,6 +1,7 @@
 ## ANEEKA
 
-💻 **Frontend Developer Intern** | Turning designs into smooth, responsive experiences  
+💻 **Frontend Developer** 
+Turning designs into smooth, responsive experiences  
 ---
 
 ## 🛠️ Tech Stack
