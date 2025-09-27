@@ -26,10 +26,6 @@ Personal portfolio showcasing skills, projects, and resume.
   <!-- Tools & Hosting -->
   <img src="https://skillicons.dev/icons?i=git,github,netlify" />
 </p>
-
- Other Skills
-- UI/UX Design  
-- Responsive Web Design
 ---
 
 ### 📊 GitHub Stats
