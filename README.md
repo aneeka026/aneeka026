@@ -2,7 +2,6 @@
 
 💻 **Frontend Developer** <br/>
 <p>Turning designs into smooth, responsive experiences  </p>
----
 
 ## 🛠️ Tech Stack
 
