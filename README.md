@@ -1,12 +1,6 @@
 ## ANEEKA
 
-💻 **Frontend Developer Intern** | Turning designs into smooth, responsive experiences
-
-🌱 Currently learning **React, modern UI/UX practices, and web performance optimization.**  
-🚀 Looking forward to contributing to real-world projects and open-source communities.  
-
-💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/aneeka-a74166204/)  
-
+💻 **Frontend Developer Intern** | Turning designs into smooth, responsive experiences  
 ---
 
 ## 🛠️ Tech Stack
