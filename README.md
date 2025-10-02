@@ -5,17 +5,16 @@ Turning designs into smooth, responsive, and user-friendly experiences.
 ---
 
 ### 🎯 Tech Stack
+
 <p align="center">
-  <!-- 🌐 Core Web -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite" />
+  <!-- Core Web -->
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
   <br>
-  <!-- 🛠️ Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
-  <br>
-  <!-- 🎨 Design -->
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="48" height="48" title="Canva"/> -->
+  <!-- Tools & Hosting -->
+  <img src="https://skillicons.dev/icons?i=git,github,netlify,vscode,vite,figma" />
+ 
 </p>
+
 
 
 
