@@ -11,7 +11,7 @@ Turning designs into smooth, responsive, and user-friendly experiences.
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" />
   <br>
   <!-- Tools & Hosting -->
-  <img src="https://skillicons.dev/icons?i=git,github,netlify,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,netlify,vscode,vite,figma" />
   <br>
   <!-- AI Tools -->
   <img src="https://skillicons.dev/icons?i=cursor" />
