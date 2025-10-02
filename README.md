@@ -15,6 +15,8 @@ Turning designs into smooth, responsive, and user-friendly experiences.
   <br>
   <!-- AI Tools -->
   <img src="https://skillicons.dev/icons?i=cursor" />
+  <!-- Design -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="48" height="48" title="Canva"/>
 </p>
 
 
